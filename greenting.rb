@@ -4,5 +4,3 @@ end
 
 greeting
 
-ruby greeting.rb 
-
